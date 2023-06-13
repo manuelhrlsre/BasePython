@@ -16,7 +16,7 @@ Proyect basic for python
 - [   b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
 - [   c. main.py:](#Creamos)
 
-## Code in file
+## Code in file (main.py)
 
 ```python
       import panda
@@ -24,4 +24,4 @@ Proyect basic for python
           pass
       if __name__ == '__main__':
          main()](#Creamos) 
-'''
+
