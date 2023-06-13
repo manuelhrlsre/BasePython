@@ -13,7 +13,7 @@ Proyect basic for python
 - [10. Abrimos Visual Code:](#Creamos)
 - [11. Agregamos codigo base en archivos:](#Creamos)
 - [    ```a. ``` requirements.py:](#Creamos) ```panda==2.0 ``` 
-- [    ```b. ``` ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
+- [    ```b. ``` ignore: declaraciones para que ignore toda las carpetas del entorno virtual: VENV](#Creamos)
 - [    ```c. ``` main.py:](#Creamos)
 
 ## Code in file (main.py)
