@@ -5,7 +5,7 @@ Proyect basic for python
 - [2. Git checkout -b trunk o main](#Creamos)
 - [3. touch README.md](#Creamos)
 - [4. touch __main__py](#Creamos)
-- [5. touch __init__.py](#Creamos)
+- [5. touch __init__py](#Creamos)
 - [6. touch .gitignore](#Creamos)
 - [7. touch requeriments.py](#Creamos)
 - [8. Creamos un entorno vitual:](#Creamos) ```virtualenv VENV```
