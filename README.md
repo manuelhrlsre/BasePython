@@ -13,8 +13,8 @@ Proyect basic for python
 - [10. Abrimos Visual Code](#Creamos)
 - [11. Agregaos codigo base en archivos:](#Creamos)
 - [12.   -a. requirements.py : panda==2.0](#Creamos)
-- [13.   -b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV]
-- [14.   -c. main.py:]
+- [13.   -b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
+- [14.   -c. main.py:](#Creamos)
 -      import
 -      def main()
 -          pass
