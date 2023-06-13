@@ -15,9 +15,9 @@ Proyect basic for python
 - [12.   -a. requirements.py : panda==2.0](#Creamos)
 - [13.   -b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
 - [14.   -c. main.py:](#Creamos)
--      [import]
--      [def main()]
--      [    pass]
--      [if __name__ == '__main__':]
--      [     main()]
+-      [import](#Creamos)
+-      [def main()](#Creamos)
+-      [    pass](#Creamos)
+-      [if __name__ == '__main__':](#Creamos)
+-      [     main()](#Creamos)
 - 
