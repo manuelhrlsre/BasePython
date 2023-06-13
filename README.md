@@ -1,12 +1,12 @@
 # base_python
 Proyect basic for python
 
-*[1. Creamos un repositorio remoto (GitHub o Bitbucket)
-*[2. Git checkout -b trunk o main
-*[3. touch README.md
-*[4. touch __main__py
-*[5. touch __init__.py
-*[6. touch .gitignore
+*[1. Creamos un repositorio remoto (GitHub o Bitbucket)]
+*[2. Git checkout -b trunk o main]
+*[3. touch README.md]
+*[4. touch __main__py]
+*[5. touch __init__.py]
+*[6. touch .gitignore]
 *[7. touch requeriments.py
 *[8. Creamos un entorno vitual "virtualenv VENV"
 *[9. Activamos el entorno virtual "source VENV/bin/activate"
