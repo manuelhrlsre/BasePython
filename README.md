@@ -8,14 +8,11 @@ Proyect basic for python
 - [5. touch __init__.py](#Creamos)
 - [6. touch .gitignore](#Creamos)
 - [7. touch requeriments.py](#Creamos)
-- [8. Creamos un entorno vitual "virtualenv VENV"](#Creamos)
-- [9. Activamos el entorno virtual "source VENV/bin/activate"](#Creamos)
+- [8. Creamos un entorno vitual"](#Creamos) ```virtualenv VENV```
+- [9. Activamos el entorno virtual](#Creamos) ```source VENV/bin/activate```
 - [10. Abrimos Visual Code](#Creamos)
 - [11. Agregamos codigo base en archivos:](#Creamos)
 - [   a. requirements.py:](#Creamos) ```panda==2.0 ``` 
-       ```bash
-        pip install foobar
-        ```
 - [   b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
 - [   c. main.py:](#Creamos)
 
