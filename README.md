@@ -2,16 +2,16 @@
 Proyect basic for python
 
 - [1. Creamos un repositorio remoto (GitHub o Bitbucket)](#Creamos)
-- [2. Git checkout -b trunk o main]
-- [3. touch README.md]
-- [4. touch __main__py]
-- [5. touch __init__.py]
-- [6. touch .gitignore]
-- [7. touch requeriments.py
-- [8. Creamos un entorno vitual "virtualenv VENV"
-- [9. Activamos el entorno virtual "source VENV/bin/activate"
-- [Abrimos Visual Code
-- [Agregaos codigo base en archivos:
+- [2. Git checkout -b trunk o main](#Creamos)
+- [3. touch README.md](#Creamos)
+- [4. touch __main__py](#Creamos)
+- [5. touch __init__.py](#Creamos)
+- [6. touch .gitignore](#Creamos)
+- [7. touch requeriments.py](#Creamos)
+- [8. Creamos un entorno vitual "virtualenv VENV"](#Creamos)
+- [9. Activamos el entorno virtual "source VENV/bin/activate"](#Creamos)
+- [Abrimos Visual Code](#Creamos)
+- [Agregaos codigo base en archivos:](#Creamos)
 12.   -a. requirements.py : panda==2.0
 13.   -b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV
 14.   -c. main.py:
