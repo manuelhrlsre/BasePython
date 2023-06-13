@@ -8,7 +8,7 @@ Proyect basic for python
 - [5. touch __init__.py](#Creamos)
 - [6. touch .gitignore](#Creamos)
 - [7. touch requeriments.py](#Creamos)
-- [8. Creamos un entorno vitual:"](#Creamos) ```virtualenv VENV```
+- [8. Creamos un entorno vitual:](#Creamos) ```virtualenv VENV```
 - [9. Activamos el entorno virtual:](#Creamos) ```source VENV/bin/activate```
 - [10. Abrimos Visual Code:](#Creamos)
 - [11. Agregamos codigo base en archivos:](#Creamos)
