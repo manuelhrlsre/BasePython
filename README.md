@@ -1,7 +1,7 @@
 # base_python
 Proyect basic for python
 
-- *[Creamos un repositorio remoto (GitHub o Bitbucket)](#Creamos)
+- [Creamos un repositorio remoto (GitHub o Bitbucket)](#Creamos)
 - Git checkout -b trunk o main]
 - touch README.md]
 - touch __main__py]
