@@ -1,6 +1,6 @@
 # base_python
 Proyect basic for python
-
+## Steap 
 - [1. Creamos un repositorio remoto (GitHub o Bitbucket)](#Creamos)
 - [2. Git checkout -b trunk o main](#Creamos)
 - [3. touch README.md](#Creamos)
@@ -16,7 +16,7 @@ Proyect basic for python
 - [   b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
 - [   c. main.py:](#Creamos)
 
-## Usage
+## Code in file
 
 ```python
       import panda
