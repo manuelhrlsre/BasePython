@@ -13,6 +13,9 @@ Proyect basic for python
 - [10. Abrimos Visual Code](#Creamos)
 - [11. Agregamos codigo base en archivos:](#Creamos)
 - [   a. requirements.py : panda==2.0](#Creamos)
+       ```bash
+        pip install foobar
+        ```
 - [   b. ignore: declaraciones para que ignore toda las carpetas deñ entorno virtual: VENV](#Creamos)
 - [   c. main.py:](#Creamos)
 
