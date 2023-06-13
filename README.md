@@ -12,7 +12,7 @@ Proyect basic for python
 - [9. Activamos el entorno virtual "source VENV/bin/activate"](#Creamos)
 - [10. Abrimos Visual Code](#Creamos)
 - [11. Agregamos codigo base en archivos:](#Creamos)
-- [   a. requirements.py : panda==2.0](#Creamos)
+- [   a. requirements.py:](#Creamos) ```panda==2.0 ``` 
        ```bash
         pip install foobar
         ```
